@@ -9,4 +9,11 @@
 		"enabled": true,
 	},
 	"upload_source_maps": true,
+
+	"analytics_engine_datasets": [
+		{
+			"binding": "ANALYTICS",
+			"dataset": "my_dataset",
+		},
+	],
 }
